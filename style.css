@@ -1,0 +1,60 @@
+#line
+{
+  height:5px;
+  width:730px;
+  background-color:purple;
+  margin:auto;
+}
+h1
+{
+  font-style:italic;
+}
+p
+{
+  font-size:25px;
+  font-style:oblique;
+  color:burgundy;
+  border:5px double red;
+}
+img
+{
+  height:230px;
+  width:230px;
+  border-radius:150px;
+  border:3px solid green;
+ }
+#img1
+{
+  height:350px;
+  width:500px;
+  border:3px solid green;
+  padding:5px;
+  border-radius:170px;
+}
+h2
+{
+    background-color:grey;
+}
+
+home{
+  z-index:100;
+}
+h3{
+    background:yellowgreen;
+  width:250px;
+}
+p1{
+  font-style:oblique;
+  font-size:20px;
+}
+#details{
+  text-align:right;
+}
+body{
+    background-image: url(b.png);
+    background-size: cover;
+    }
+#list{
+ list-style: none;
+    font-size: 20px;
+}
